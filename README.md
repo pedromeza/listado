@@ -5,7 +5,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 1. Composer
-2. PHP >= "^7.1.3"
+2. PHP >= "^5.5."
 3. instaldo xamp o wamp
 4. composer
 5. git
