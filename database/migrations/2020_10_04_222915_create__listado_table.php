@@ -19,7 +19,7 @@ class CreateListadoTable extends Migration
             $table->string('apaterno',40);
             $table->string('amaterno',40);
             $table->string('rfc',15)->unique();
-            $table->timestamp('fechanacimiento');
+            $table->date('fechanacimiento');
             $table->timestamps();
         });
     }
